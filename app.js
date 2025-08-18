@@ -3,6 +3,7 @@
 //     console.log(`Números: ${i}`)
 // }
 
+
 // let i = 200
 // do{
 //    console.log(`Número: ${i}`) 
@@ -51,6 +52,24 @@
 // for(let i = 0; i < 11; i++){
 //     let resultado = numeroTabuada * i 
 //     console.log(`${numeroTabuada} x ${i} = ${resultado}`)
+// }
+
+// let primeiroNumeroTabuada = 3
+// let segundoNumeroTabuada = 15
+
+// if(primeiroNumeroTabuada <= segundoNumeroTabuada){
+//     while (primeiroNumeroTabuada <= segundoNumeroTabuada){
+//         let resultado = primeiroNumeroTabuada * segundoNumeroTabuada
+//         console.log(`${primeiroNumeroTabuada} x ${segundoNumeroTabuada} = ${resultado}`)
+//         primeiroNumeroTabuada++
+//     }
+// }else{
+//     while(segundoNumeroTabuada <= primeiroNumeroTabuada){
+
+//         let resultado = primeiroNumeroTabuada * segundoNumeroTabuada
+//         console.log(`${segundoNumeroTabuada} x ${primeiroNumeroTabuada} = ${resultado}`)
+//         segundoNumeroTabuada++
+//     }
 // }
 
 
