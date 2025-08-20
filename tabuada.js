@@ -6,7 +6,7 @@ let tabuada = []
 
 function calcularTabuada () {
 
-    debugger;
+
 
     const resultadoTabuada = document.createElement('ul')
     const numeroTabuada = document.getElementById('numero-tabuada').value
