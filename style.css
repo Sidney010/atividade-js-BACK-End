@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+header{
+    background-color: rgb(156, 236, 236);
+    height: 10vh;
+    padding: 12px;
+    gap: 12px;
+    align-items: center;
+    justify-items: center;
+}
+main{
+    padding: 12px;
+    gap: 12px;
+    align-items: center;
+    justify-items: center;
+}
